@@ -1,0 +1,13 @@
+html {
+  background: url("../images/pillars_of_creation.jpg") no-repeat fixed;
+  background-position-x: center;
+  background-position-y: 20%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1, h2, p {
+	color: white;
+}
