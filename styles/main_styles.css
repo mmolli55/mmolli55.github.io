@@ -12,12 +12,12 @@ h1, h2, p {
   color: rgb(80, 81, 81);
 }
 
-section {
+header {
   background-color: rgba(255,255,255,0.8);
   padding: 15px;
-  max-width: 300px;
+  max-width: 450px;
   margin: 0 auto;
-  text-align: center
+  text-align: center;
 }
 
 #intro h1 {
